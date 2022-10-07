@@ -34,3 +34,4 @@ resource "aws_instance" "myec2" {
     date_created = local.time
   }
 }
+billionaire study group
